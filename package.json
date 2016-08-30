@@ -1,0 +1,23 @@
+{
+  "name": "iblog",
+  "version": "1.0.0",
+  "description": "iblog system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willculture/iblog.git"
+  },
+  "keywords": [
+    "nodejs",
+    "iblog"
+  ],
+  "author": "willwu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willculture/iblog/issues"
+  },
+  "homepage": "https://github.com/willculture/iblog#readme"
+}
